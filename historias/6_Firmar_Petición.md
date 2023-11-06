@@ -1,4 +1,4 @@
-# Historia de Usuario - Firmar Petición
+# Historia de Usuario 6 - Firmar Petición
 
 - Yo como: Usuario de la aplicación.
 - Quiero: Poder firmar una petición para mostrar mi apoyo a una causa.
@@ -13,13 +13,11 @@
 
 ## Especificación de requerimientos.
 
-
 1. Cada petición debe mostrar un título, una descripción breve y la cantidad actual de firmas.
 2. Los usuarios pueden hacer clic en una petición para ver más detalles y firmarla.
 3. Los usuarios deben confirmar al firmar una petición.
 
 ## Análisis
-
 
 ### Pantalla de Detalles de la Petición
 
@@ -37,7 +35,6 @@
 
 ## Criterios de Aceptación
 
-
 ### Firma de una Petición
 
 - **Dado** que el usuario ha iniciado sesión en la aplicación y está viendo los detalles de una petición.
@@ -45,8 +42,6 @@
 - **Y** el usuario hace clic en el botón "Firmar".
 - **Entonces** el sistema debe registrar la firma del usuario en la petición.
 - **Y** el sistema debe mostrar la cantidad actualizada de firmas en la petición.
-
-
 
 ## Disenio
 

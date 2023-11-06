@@ -1,4 +1,4 @@
-# Historia de Usuario 6 - Registro de una petición.
+# Historia de Usuario 5 - Registro de una petición.
 
 - Yo como: Usuario de la aplicación.
 - Quiero: Registrar una petición para que los usuarios puedan firmarla y apoyarla.
@@ -24,8 +24,6 @@
 
 ## Analisis
 
-### Pantalla de creacion de nueva subasta
-
 A continuación se presenta la pantalla de creación de una nueva petición, cuyo funcionamiento es.
 
 1. El usuario hizo clic previamente en Crear Nueva Petición.
@@ -39,9 +37,6 @@ A continuación se presenta la pantalla de creación de una nueva petición, cuy
 4. El usuario deberá ingresar el contenido de la petición.
 5. El usuario deberá ingresar el objetivo de firmas de la petición.
 6. El usuario registrará su petición haciendo clic en el botón "Registrar Mi Petición".
-
-7. El usuario hizo clic previamente en Crear Nueva Subasta.
-8. El usuario deberá tener lista las images...
 
 ![Alt text](/historias/pantallas/registrar_peticion.png)
 
