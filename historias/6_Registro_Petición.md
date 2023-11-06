@@ -90,7 +90,7 @@ Accept: Application/json
 Authorization: Bearer JWT
 ```
 
-![Alt text](/historias/pantallas/API_22_Subir_imagen.png.png)
+![Alt text](/historias/pantallas/API_22_Subir_imagen.png)
 
 2. Para crear la petición:
 
@@ -102,4 +102,4 @@ Accept: Application/json
 Authorization: Bearer JWT
 ```
 
-![Alt text](/historias/pantallas/API_4_Guardar_Peticion.png.png)
+![Alt text](/historias/pantallas/API_4_Guardar_Peticion.png)
