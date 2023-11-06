@@ -26,14 +26,14 @@
 1. El usuario hace clic en una petición para ver más detalles y firmarla.
 2. En la pantalla de detalles de la petición, el usuario ve información detallada sobre la petición, incluyendo su título, descripción completa y la cantidad actual de firmas.
 
-![Detalles de la Petición](/historias/pantallas/detalles_peticion.png)
+![Detalles de la Petición](/historias/pantallas/sign_publications_page.png)
 
 ### Pantalla de Firmar Petición
 
 3. El usuario hace clic en el botón "Firmar" para mostrar su apoyo a la petición.
 4. El usuario debe confirmar su intencion de firmar luego de apretar el boton "Firmar"
 
-![Firmar Petición](/historias/pantallas/firmar_peticion.png)
+![Firmar Petición](/historias/pantallas/sign_publications_page.png)
 
 ## Criterios de Aceptación
 
