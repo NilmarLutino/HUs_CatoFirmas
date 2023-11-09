@@ -98,3 +98,7 @@ Authorization: Bearer JWT
 ```
 
 ![Alt text](/historias/pantallas/API_4_Guardar_Peticion.png)
+
+## BBDD
+
+![Alt text](/historias/pantallas/bbdd_registro.png.png)

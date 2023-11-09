@@ -37,3 +37,7 @@ GET BASE_URL/popularpetitions
 Accept: Application/json
 
 ![Alt text](/historias/pantallas/API_1_popular_petitions.png)
+
+## BBDD
+
+![Alt text](/historias/pantallas/bbdd_peticiones_destacadas.png.png)

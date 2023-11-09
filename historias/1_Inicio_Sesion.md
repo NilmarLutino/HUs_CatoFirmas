@@ -38,3 +38,5 @@
 ![Alt text](/historias/pantallas/inicio_sesion_auth0.png)
 
 ### Pantalla de inicio de sesión Auth0
+
+![Alt text](/historias/pantallas/bbdd_usuario.png.png)

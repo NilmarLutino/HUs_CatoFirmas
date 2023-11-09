@@ -38,3 +38,7 @@ GET BASE_URL/petitions/{id}/publications
 Accept: Application/json
 
 ![Alt text](/historias/pantallas/API_11_publications_page.png)
+
+## BBDD
+
+![Alt text](/historias/pantallas/bbdd_publicaciones.png.png)
