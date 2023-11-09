@@ -101,4 +101,4 @@ Authorization: Bearer JWT
 
 ## BBDD
 
-![Alt text](/historias/pantallas/bbdd_registro.png.png)
+![Alt text](/historias/pantallas/bbdd_registro.png)

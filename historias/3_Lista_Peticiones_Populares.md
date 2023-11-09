@@ -40,4 +40,4 @@ Accept: Application/json
 
 ## BBDD
 
-![Alt text](/historias/pantallas/bbdd_peticiones_destacadas.png.png)
+![Alt text](/historias/pantallas/bbdd_peticiones_destacadas.png)

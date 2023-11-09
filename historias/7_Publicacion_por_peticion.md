@@ -41,4 +41,4 @@ Accept: Application/json
 
 ## BBDD
 
-![Alt text](/historias/pantallas/bbdd_publicaciones.png.png)
+![Alt text](/historias/pantallas/bbdd_publicaciones.png)
