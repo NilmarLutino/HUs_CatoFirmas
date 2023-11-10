@@ -4,7 +4,7 @@ Análisis y Diseño de Software CatoFirmas
 
 # Valor
 
-Registrar y firmar peticiones de los estudiantes de la Universidad Católica de Boliviana "San Pablo" Regional La Paz.
+Proporcionar una plataforma dinámica que permita a los estudiantes de la Universidad Católica Boliviana "San Pablo" Regional La Paz registrar y firmar peticiones, con el fin de impulsar iniciativas que enriquezcan su entorno académico, asegurando que cada contribución estudiantil sea contabilizada y tenga el potencial de incitar un cambio significativo dentro de la institución.
 
 # Historias de usuario
 
