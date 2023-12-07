@@ -7,7 +7,7 @@
 ## Pendientes de definición.
 
 1. ¿Se requiere autenticación de dos factores?
-   R.
+   R. No ya que usamos auth0
 2. ¿Cómo se manejarán los errores de inicio de sesión, como las credenciales incorrectas o las cuentas bloqueadas?
    R.
 
