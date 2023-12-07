@@ -9,7 +9,7 @@
 1. ¿Se requiere autenticación de dos factores?
    R. No ya que usamos auth0
 2. ¿Cómo se manejarán los errores de inicio de sesión, como las credenciales incorrectas o las cuentas bloqueadas?
-   R.
+   R. auth0 se encarga
 
 ## Especificación de requerimientos.
 
